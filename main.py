@@ -17,3 +17,12 @@ secondNumber = int(input("Enter second Number:\n>>"))
 
 total = firstNumber % secondNumber
 print(total)
+
+#multiplication function
+
+numb1 = float(input("Enter the first number you want to multiply: "))
+numb2 = float(input("Enter the second number you want to multiply: "))
+
+result = numb1 * numb2 
+
+print(f"The result of {num1} multiplied by {numb2} is equals to {result}")
