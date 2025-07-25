@@ -11,8 +11,9 @@ secondNumber = float(input("Enter second Number\n>>> "))
 total = firstNumber ** secondNumber
 print(total)
 
-numbfirst = float(input("Ennter First Number:\n>>"))
-numbsecond = int(input("Enter second Number:\n>>"))
+#Modulus function implementation
+firstNumber = float(input("Ennter First Number:\n>>"))
+secondNumber = int(input("Enter second Number:\n>>"))
 
-mod_out_put = numbfirst % numbsecond
+mod_out_put = firstNumber % secondNumber
 print(mod_out_put)
