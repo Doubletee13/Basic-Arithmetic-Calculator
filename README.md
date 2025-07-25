@@ -31,7 +31,7 @@ Then lastly pushing with the command:
 > git push origin feature/your-branch-name
 
 
-Aside the exponential feature that is already on the script, each assigned collaborator should make contribution of the rest arithmentic operation feature of a calculator which are:
+Aside the exponential feature that is already on the script, each assigned collaborator should make contribution of the rest arithmectic operation features of a calculator which are:
 
 1. Addition
 2. Substraction
