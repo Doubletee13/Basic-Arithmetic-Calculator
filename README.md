@@ -9,6 +9,7 @@ The arithmetic calculator starts with an exponential calculation, therefore coll
 Secondly, to make sure the main branch is up to date, collaborators should run the commands:
 
 > git checkout main
+
 > git pull origin main
 
 The above ensures they are working from the latest version of main
