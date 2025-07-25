@@ -23,6 +23,7 @@ The above, branch from the latest main branch to isolate their work
 Fourthly, make changes, add and commit with the command: 
 
 > git add .
+
 > git commit -m "Descriptive commit message"
 
 Then lastly pushing with the command:
