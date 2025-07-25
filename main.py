@@ -4,6 +4,10 @@ Basic Calculator that takes input of two numbers from the user and perform arith
 
 
 # Declaring of two variables that will take input of floating numbers from the users
+firstNumber = float(input("Enter first number: ")
+secondNumber = float(input("Enter second number: ")
+Total = firstNumber + secondNumber 
+print(Total)
 
 firstNumber = float(input("Enter first Number\n>>>> "))
 secondNumber = float(input("Enter second Number\n>>> "))
