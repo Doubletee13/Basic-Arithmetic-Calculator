@@ -30,6 +30,7 @@ Then lastly pushing with the command:
 
 > git push origin feature/your-branch-name
 
+After pushing your branch, go to the GitHub repository page and click the “Compare & pull request” button (or use the Pull Requests tab to create one). Select your feature branch as source and main as target, add a clear title and description, assign reviewers, then submit the pull request.
 
 Aside the exponential feature that is already on the script, each assigned collaborator should make contribution of the rest arithmectic operation features of a calculator which are:
 
