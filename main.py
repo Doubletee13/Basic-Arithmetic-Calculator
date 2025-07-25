@@ -15,5 +15,5 @@ print(total)
 firstNumber = float(input("Ennter First Number:\n>>"))
 secondNumber = int(input("Enter second Number:\n>>"))
 
-mod_out_put = firstNumber % secondNumber
-print(mod_out_put)
+total = firstNumber % secondNumber
+print(total)
