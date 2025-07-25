@@ -10,3 +10,10 @@ secondNumber = float(input("Enter second Number\n>>> "))
 
 total = firstNumber ** secondNumber
 print(total)
+
+#Modulus function implementation
+firstNumber = float(input("Ennter First Number:\n>>"))
+secondNumber = int(input("Enter second Number:\n>>"))
+
+total = firstNumber % secondNumber
+print(total)
