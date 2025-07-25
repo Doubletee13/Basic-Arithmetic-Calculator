@@ -40,4 +40,4 @@ Aside the exponential feature that is already on the script, each assigned colla
 4. Division
 5. Modulus
 
-
+NOTE: THERE ARE VARIABLES THAT TAKES FIRST NUMBER, SECOND NUMBER AND TOTAL, WE SHOULD WORK WITH THESE VARIABLES AS WE ARE MODYFYING THESAME FILE 
