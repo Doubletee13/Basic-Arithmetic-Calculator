@@ -12,6 +12,7 @@ total = firstNumber ** secondNumber
 print(total)
 
 #Modulus function implementation
+
 firstNumber = float(input("Ennter First Number:\n>>"))
 secondNumber = int(input("Enter second Number:\n>>"))
 
@@ -26,3 +27,12 @@ numb2 = float(input("Enter the second number you want to multiply: "))
 result = numb1 * numb2 
 
 print(f"The result of {num1} multiplied by {numb2} is equals to {result}")
+
+#SUBTRACTION FUNCTION
+
+number1 = float(input("Enter the first number you want to sub: "))
+number2 = float(input("Enter the second number you want to sub: "))
+
+answer = number1 - number2
+
+print(answer)
