@@ -1,5 +1,5 @@
 '''
-Basic Calculator that takes input of twon numbers from the user and perform arithmetic operations with them
+Basic Calculator that takes input of two numbers from the user and perform arithmetic operations with them
 '''
 
 
