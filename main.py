@@ -26,6 +26,7 @@ numb2 = float(input("Enter the second number you want to multiply: "))
 
 result = numb1 * numb2 
 
+<<<<<<< HEAD
 print(f"The result of {num1} multiplied by {numb2} is equals to {result}")
 
 #SUBTRACTION FUNCTION
@@ -36,3 +37,4 @@ number2 = float(input("Enter the second number you want to sub: "))
 answer = number1 - number2
 
 print(answer)
+
