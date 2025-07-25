@@ -10,3 +10,9 @@ secondNumber = float(input("Enter second Number\n>>> "))
 
 total = firstNumber ** secondNumber
 print(total)
+
+numbfirst = float(input("Ennter First Number:\n>>"))
+numbsecond = int(input("Enter second Number:\n>>"))
+
+mod_out_put = numbfirst % numbsecond
+print(mod_out_put)
